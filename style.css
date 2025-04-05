@@ -1,0 +1,17 @@
+#aberta{
+    visibility: hidden;
+    position: absolute;
+    width: 53vw;
+}
+
+#fechada{
+    position: absolute;
+    width: 36vw;
+}
+
+#porta{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
